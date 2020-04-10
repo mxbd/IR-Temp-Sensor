@@ -25,4 +25,4 @@ As standard the MLX90614 is calibrated for an object emissivity of 1 (roughly th
 The system will run off of the onboard 12V supply which should be regulated by the Arduinos internal voltage regulator as to supply the sensor and display with a constant 5V supply. Depending on the fluctuations in output voltage of the bike which will be dependent on the revs an external voltage regulator may be needed.
 
 ## Schematic:
-![](images/filename20spaces.jpg)
+![](schematic/TempSensorSchematic.jpg)
