@@ -26,3 +26,7 @@ The system will run off of the onboard 12V supply which should be regulated by t
 
 ## Schematic:
 ![](schematic/TempSensorSchematic.jpg)
+
+## Set-Up
+<img src="images/set_up.jpg" width="500" >
+                                    
