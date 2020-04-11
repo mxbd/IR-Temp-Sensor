@@ -3,6 +3,7 @@
 **Using a microcontroller and infrared temp sensor to monitor and display ambient air and engine temp of a motorcycle on an OLED screen**
 
 V1 is for 0.96" OLED Displays using a SSD1306 Driver
+
 V2 is for 1.3" OLED Displays using a SH1106 Driver (different library to V1 needed!)
 
 
