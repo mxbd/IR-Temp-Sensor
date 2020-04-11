@@ -30,6 +30,17 @@ The system will run off of the onboard 12V supply which should be regulated by t
 ## Schematic:
 ![](schematic/TempSensorSchematic.jpg)
 
+As long as each device has a different address they can both be hooked up to the same SDA & SCL pins
+
 ## Set-Up
 <img src="images/set_up.jpg" width="500" >
-                                    
+
+Test set-up
+
+<img src="images/start_up_logo.jpg" width="500" >
+
+Start-Up Logo
+
+<img src="images/temp_readings_example.jpg" width="500" >
+
+ Temp readings example                                   
