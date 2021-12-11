@@ -126,7 +126,7 @@ void loop()
       
 
       display.setCursor(10,10);
-      display.print("ENGINE");
+      display.print("TYRE");
       display.setCursor(10,22);
       display.print("TEMP:");
       
