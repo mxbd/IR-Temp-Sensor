@@ -113,7 +113,7 @@ void loop()
       u8g.drawStr(5, 15, "Ambient");  
       u8g.drawStr(5, 30, "Temp:");
 
-      u8g.drawStr(70, 15, "Engine");  
+      u8g.drawStr(70, 15, "Tyre");  
       u8g.drawStr(70, 30, "Temp:");
       
       u8g.drawStr(44, 55, "C"); 
