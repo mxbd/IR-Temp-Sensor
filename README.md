@@ -32,18 +32,4 @@ The system will run off of the onboard 12V supply which should be regulated by t
 
 As long as each device has a different I2C address they can both be hooked up to the same SDA & SCL pins
 
-## Set-Up
-
-Test set-up
-
-<img src="images/set_up.jpg" width="500" >
-
-Start-Up Logo
-
-<img src="images/start_up_logo.jpg" width="500" >
-
-Temp readings example in housing   
-
-<img src="images/temp_readings_example.jpg" width="500" >
-
                                 
